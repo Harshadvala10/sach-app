@@ -39,7 +39,7 @@ export default function Home() {
         }}>
           🔍 Start Verification
         </a>
-        <a href="/login" style={{
+        <a href="/dashboard" style={{
           background: "transparent",
           border: "1px solid #FF6B00",
           color: "#FF6B00", padding: "16px",
@@ -47,7 +47,7 @@ export default function Home() {
           fontWeight: 700, fontSize: 16,
           textDecoration: "none",
         }}>
-          👤 Login / Register
+          👤 dashboard / Register
         </a>
       </div>
 
