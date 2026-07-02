@@ -47,7 +47,7 @@ export default function Home() {
           fontWeight: 700, fontSize: 16,
           textDecoration: "none",
         }}>
-          👤 dashboard / Register
+          👤 login / Register
         </a>
       </div>
 
